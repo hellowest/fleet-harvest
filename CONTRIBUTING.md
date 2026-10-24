@@ -19,7 +19,7 @@ Thanks for your interest in contributing! This guide explains how work is planne
        docs: update quick start
        chore: bump dependencies
 
-   Keep commits small and focused. Use the imperative mood ("add", not "added").s
+   Keep commits small and focused. Use the imperative mood ("add", not "added").
 4. **Open a pull request** using the PR template and include `Closes #<issue>`.
    Open it as a draft while work is in progress.
 5. **Review.** Check the diff, make sure CI passes, and resolve all comments.
