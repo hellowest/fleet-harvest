@@ -12,7 +12,14 @@ Thanks for your interest in contributing! This guide explains how work is planne
 
    Example: `feat/4-docker-compose-skeleton`
 3. **Commit using [Conventional Commits](https://www.conventionalcommits.org/):**
-   Keep commits small and focused. Use the imperative mood ("add", not "added").
+
+       feat: add ssh executor
+       fix: handle timeout on file upload
+       test: cover audit merge rules
+       docs: update quick start
+       chore: bump dependencies
+
+   Keep commits small and focused. Use the imperative mood ("add", not "added").s
 4. **Open a pull request** using the PR template and include `Closes #<issue>`.
    Open it as a draft while work is in progress.
 5. **Review.** Check the diff, make sure CI passes, and resolve all comments.
